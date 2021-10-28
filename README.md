@@ -1,1 +1,2 @@
-# Ants
+# Ant
+A tower defense game
