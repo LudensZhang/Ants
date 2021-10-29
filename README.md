@@ -1,6 +1,6 @@
  # Ants
 
-## Project 3: Ants Vs. SomeBees
+## Project : Ants Vs. SomeBees
 
 > ![](img/ants_vs_bees.png)
 > 
@@ -16,7 +16,7 @@ This project combines functional and object-oriented programming paradigms, focu
 
 This project includes several files, but all of your changes will be made to the first two. You can download all of the project code as a [zip archive](ants.zip).
 
-<table cellpadding="10"><tbody><tr><td><code><a href="ants.py.html">ants.py</a></code></td><td>The game logic of Ants Vs. SomeBees.</td></tr><tr><td><code><a href="written.txt">written.txt</a></code></td><td>A place to answer the written problems in the project.</td></tr><tr><td><code><a href="tests.py.html">tests.py</a></code></td><td>A series of <i>unit tests</i> to test various parts of your project.</td></tr><tr><td><code><a href="ants_gui.py.html">ants_gui.py</a></code></td><td>Graphics for Ants Vs. SomeBees.</td></tr><tr><td><code><a href="graphics.py.html">graphics.py</a></code></td><td>General functions for displaying simple two-dimensional animations.</td></tr><tr><td><code><a href="ucb.py.html">ucb.py</a></code></td><td>Utility functions for 61A.</td></tr></tbody></table>
+<table cellpadding="10"><tbody><tr><td><code><a href="ants.py">ants.py</a></code></td><td>The game logic of Ants Vs. SomeBees.</td></tr><tr><td><code><a href="written.txt">written.txt</a></code></td><td>A place to answer the written problems in the project.</td></tr><tr><td><code><a href="tests.py">tests.py</a></code></td><td>A series of <i>unit tests</i> to test various parts of your project.</td></tr><tr><td><code><a href="ants_gui.py">ants_gui.py</a></code></td><td>Graphics for Ants Vs. SomeBees.</td></tr><tr><td><code><a href="graphics.py">graphics.py</a></code></td><td>General functions for displaying simple two-dimensional animations.</td></tr><tr><td><code><a href="ucb.py">ucb.py</a></code></td><td>Utility functions for 61A.</td></tr></tbody></table>
 
 ### Logistics
 
